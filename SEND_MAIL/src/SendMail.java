@@ -30,6 +30,11 @@ public class SendMail {
 	private String EMAIL_ACCOUNT ;
 	private String EMAIL_PASSWORD;
 	private String EMAIL_TITLE;
+	
+	
+	private String EMAIL_CONTENT = "";
+	
+	/*
 	private String EMAIL_CONTENT="Gene2Me(www.gene2.me) 를 이용해주시는 회원님께 감사드립니다.\n\n"
 			                              +"2016년 11월3일 부터 Gene2Me 서비스주문 및 회원가입(서비스등록) 시, 회원님께 보다 다양한 정보를 제공하고자 개인정보 제3자 마케팅 정보활용에 대한 약관 동의 항목이 신설 됨에 따라 이에 공지 합니다.\n"
 			                              +"본 내용은 2016년 11월3일 이전 회원가입하신 고객님은 해당 되지 않으며, 회원님의 개인정보는 제3자 마케팅 활용 동의에 거부 한 것으로 일괄 처리 됩니다.\n\n"
@@ -60,7 +65,7 @@ public class SendMail {
 			                              +"열람, 정정, 삭제 및 정보제공 동의 철회는 전화와 팩스등을 통하여 본인 확인 후 요청할 수 있습니다.  \n\n\n"
 			                              +"본 메일은 Gene2Me 발신전용 메일입니다. 관련문의 사항은 대표 이메일 주소(info@gene2.me) 로 문의하거나 TEL 032-210-2360 으로 연락주시기 바랍니다.\n\n\n\n\n" ; 
 			                             
-
+    */
 
 			                            
 	
